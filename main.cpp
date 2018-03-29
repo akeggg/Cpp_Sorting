@@ -56,4 +56,6 @@ int main()
 	{
 		cout << arr[n] << " ";
 	}
+	
+	cout << endl;
 }
